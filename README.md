@@ -1,8 +1,6 @@
 # README
 ### Pet_admin is a complete pet shop and veterinary clinic management system, with everything you need to manage your clinic and make it a more productive and profitable business.
 
-Things you may want to cover:
-
 ## Technology 
 
 Here are the technologies used in this project.
