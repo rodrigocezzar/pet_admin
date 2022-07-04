@@ -10,6 +10,12 @@ Here are the technologies used in this project.
 
 ## Technology 
 
+### Clone the Project
+
+```
+git@github.com:rodrigocezzar/pet_admin.git
+```
+
 ```
 docker-compose build
 ```
