@@ -1,7 +1,5 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Pet_admin is a complete pet shop and veterinary clinic management system, with everything you need to manage your clinic and make it a more productive and profitable business.
 
 Things you may want to cover:
 
@@ -11,7 +9,6 @@ Here are the technologies used in this project.
  
 * Ruby version  2.7.2
 * Rails version 5.2.0
-* System dependencies
 
 ## Technology 
 
