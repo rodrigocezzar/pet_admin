@@ -15,11 +15,21 @@ Here are the technologies used in this project.
 
 ## Technology 
 
-```docker-compose build```
-```docker-compose up```
-```docker-compose run api rake db:create RAILS_ENV=development```
-```docker-compose run api rake db:migrate RAILS_ENV=development```
-```docker-compose run api rake db:seed RAILS_ENV=development```
+```
+docker-compose build
+```
+```
+docker-compose up
+```
+```
+docker-compose run api rake db:create RAILS_ENV=development
+```
+```
+docker-compose run api rake db:migrate RAILS_ENV=development
+```
+```
+docker-compose run api rake db:seed RAILS_ENV=development
+```
 
 * Configuration
 
