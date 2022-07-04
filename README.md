@@ -11,16 +11,15 @@ Here are the technologies used in this project.
  
 * Ruby version  2.7.2
 * Rails version 5.2.0
-
 * System dependencies
-* 
+
 ## Technology 
 
-`docker-compose build`
-`docker-compose up`
-`docker-compose run api rake db:create RAILS_ENV=development`
-`docker-compose run api rake db:migrate RAILS_ENV=development`
-`docker-compose run api rake db:seed RAILS_ENV=development`
+```docker-compose build```
+```docker-compose up```
+```docker-compose run api rake db:create RAILS_ENV=development```
+```docker-compose run api rake db:migrate RAILS_ENV=development```
+```docker-compose run api rake db:seed RAILS_ENV=development```
 
 * Configuration
 
@@ -34,4 +33,3 @@ Here are the technologies used in this project.
 
 * Deployment instructions
 
-* ...
